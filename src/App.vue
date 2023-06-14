@@ -1,38 +1,29 @@
 <script setup>
-import Header from './components/Header.vue'
+import Invitation from "./components/Invitation.vue";
+import Card from "./components/Card.vue";
+import Map from "./components/Map.vue";
+import Account from "./components/Account.vue";
 </script>
 
 <template>
-  <header>
-    <div class="wrapper">
-      <Header msg="🚧공사중" />
+  <div class="wrapper">
+    <div class="contents">
+      <Invitation />
+      <Card />
+      <Map />
+      <Account />
     </div>
-  </header>
-
-  <main>
-  </main>
+  </div>
 </template>
 
 <style scoped>
-header {
-  line-height: 1.5;
+.wrapper {
+  padding: 30px 30px 70px 30px;
 }
 
-@media (min-width: 1024px) {
-  header {
-    display: flex;
-    place-items: center;
-    padding-right: calc(var(--section-gap) / 2);
-  }
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap;
-  }
+.contents {
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
 }
 </style>
