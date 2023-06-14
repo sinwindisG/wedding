@@ -66,9 +66,9 @@ h3 {
 h4 {
   color: white;
   letter-spacing: 2px;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   margin-top: 0;
-  padding: 10px;
+  padding: 5px;
 }
 
 * {

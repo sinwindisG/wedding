@@ -8,7 +8,7 @@
       <div class="uk-accordion-content">
         <p>
           서울대학교 이라운지<br />
-          서울 관악구 관악로 1 서울대학교 관악캠퍼스 310동
+          <span class="content-text">서울 관악구 관악로 1 서울대학교 관악캠퍼스 310동</span>
         </p>
         <div>
           <iframe

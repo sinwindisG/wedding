@@ -17,3 +17,7 @@ font-family: 'Cedarville Cursive', cursive;
 font-family: 'Dawning of a New Day', cursive;
 font-family: 'Mr De Haviland', cursive;
 */
+
+.content-text {
+  font-size: 0.8rem;
+}

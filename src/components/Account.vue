@@ -6,7 +6,7 @@
     <div>
       <h3>마음 전하실 곳</h3>
       <div class="uk-accordion-content">
-        <p>
+        <p class="content-text">
           비대면으로 축하를 전하고자 하시는 분들을 위해 계좌번호를 기재하였습니다.
           너그러운 마음으로 양해 부탁드립니다.
         </p>
@@ -59,14 +59,14 @@ a:hover {
 dt {
   color: white;
   letter-spacing: 5px;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   font-weight: 700;
   color: #ffffffd0;
 }
 
 dd {
   color: white;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   color: #ffffffd0;
 }
 
