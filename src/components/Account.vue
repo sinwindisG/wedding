@@ -69,23 +69,4 @@ dd {
   font-size: 0.8rem;
   color: #ffffffd0;
 }
-
-h3 {
-  color: white;
-  letter-spacing: 10px;
-  font-size: 1.2rem;
-  font-weight: 700;
-}
-
-h4 {
-  color: white;
-  letter-spacing: 2px;
-  font-size: 0.9rem;
-  margin-top: 0;
-}
-
-* {
-  font-family: "Orbit", sans-serif;
-  line-height: 170%;
-}
 </style>
