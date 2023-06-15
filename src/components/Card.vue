@@ -16,7 +16,7 @@
           <tbody>
             <tr>
               <td>박운석</td>
-              <td rowspan="2">의 차남 박상현</td>
+              <td rowspan="2">의 장남 박상현</td>
             </tr>
             <tr>
               <td>이영화</td>
