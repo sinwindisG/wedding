@@ -1,6 +1,7 @@
 <script setup>
 import Invitation from "./components/Invitation.vue";
 import Card from "./components/Card.vue";
+import Calendar from "./components/Calendar.vue";
 import Gallery from "./components/Gallery.vue";
 import Map from "./components/Map.vue";
 import Account from "./components/Account.vue";
@@ -15,6 +16,7 @@ import Account from "./components/Account.vue";
         <Invitation />
         <Card />
       </div>
+      <Calendar />
       <Gallery />
       <Map />
       <Account />
