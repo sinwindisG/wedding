@@ -4,7 +4,7 @@
     uk-scrollspy="target: > h3, div; cls: uk-animation-fade; delay: 500"
   >
     <div>
-      <h3>시월의 마지막 일요일.</h3>
+      <h3>시월의<br />마지막 일요일.</h3>
       <div class="calendar uk-text-center">
         <table>
           <caption>
