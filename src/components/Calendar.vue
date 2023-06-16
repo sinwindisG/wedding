@@ -5,7 +5,7 @@
   >
     <div>
       <h3>시월의<br />마지막 일요일.</h3>
-      <div class="calendar uk-text-center">
+      <div class="calendar uk-text-center uk-overflow-auto">
         <table>
           <caption>
             <span class="caption">2023. 10</span>
