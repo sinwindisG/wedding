@@ -1,6 +1,7 @@
 <script setup>
 import Invitation from "./components/Invitation.vue";
 import Card from "./components/Card.vue";
+import Gallery from "./components/Gallery.vue";
 import Map from "./components/Map.vue";
 import Account from "./components/Account.vue";
 </script>
@@ -11,11 +12,12 @@ import Account from "./components/Account.vue";
       <div
         uk-scrollspy="target: > div, h1, img, hr, h3, p, iframe, h4, table, ul; cls: uk-animation-fade; delay: 500"
       >
-        <Invitation id="invitation" />
-        <Card id="card" />
+        <Invitation />
+        <Card />
       </div>
-      <Map id="map" />
-      <Account id="account" />
+      <Gallery />
+      <Map />
+      <Account />
     </div>
   </div>
 </template>
