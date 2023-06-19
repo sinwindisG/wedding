@@ -10,9 +10,7 @@
         tabindex="-1"
         uk-slider="autoplay: true"
       >
-        <ul
-          class="uk-slider-items uk-child-width-1-1"
-        >
+        <ul class="uk-slider-items uk-child-width-1-1">
           <li>
             <img src="/img/gallery/1.jpg" />
             <div class="uk-position-center uk-panel"></div>
@@ -43,6 +41,10 @@
           </li>
           <li>
             <img src="/img/gallery/8.jpg" />
+            <div class="uk-position-center uk-panel"></div>
+          </li>
+          <li>
+            <img src="/img/gallery/9.jpg" />
             <div class="uk-position-center uk-panel"></div>
           </li>
         </ul>
