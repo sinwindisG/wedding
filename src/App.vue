@@ -5,6 +5,7 @@ import Calendar from "./components/Calendar.vue";
 import Gallery from "./components/Gallery.vue";
 import Map from "./components/Map.vue";
 import Account from "./components/Account.vue";
+import Footer from "./components/Footer.vue";
 </script>
 
 <template>
@@ -23,19 +24,14 @@ import Account from "./components/Account.vue";
         <Account />
       </div>
     </div>
-    <div class="uk-text-center"><img class="pixel" src="/img/footer.png" /></div>
-    <div class="footer"></div>
+    <div class="uk-text-center">
+      <img class="pixel" src="/img/footer.png" />
+    </div>
+    <Footer />
   </div>
 </template>
 
 <style scoped>
-.footer {
-  background-color: #bbbbccaa;
-  height: 30px;
-  overflow: hidden;
-  text-align: center;
-}
-
 .pixel {
   image-rendering: pixelated;
   position: relative;
