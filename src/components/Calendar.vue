@@ -68,7 +68,7 @@
               <td>28</td>
             </tr>
             <tr>
-              <td class="holiday circle">29</td>
+              <td class="holiday circle">29<span class="time">2pm</span></td>
               <td>30</td>
               <td>31</td>
               <td></td>
@@ -111,10 +111,20 @@
   border-radius: 51%;
   border: 1px solid #ffffffaa;
   display: inline-block;
+  font-weight: 700;
 }
 
 .holiday {
   color: #fcb8b8e1;
+}
+
+.time {
+  display: block;
+  position: relative;
+  top: 5px;
+  font-size: 0.7rem;
+  color: #ffffffaa;
+  font-weight: 700;
 }
 
 table {
