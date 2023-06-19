@@ -30,7 +30,7 @@ import Account from "./components/Account.vue";
 
 <style scoped>
 .footer {
-  background-color: #bbbbcc;
+  background-color: #bbbbccaa;
   height: 30px;
   overflow: hidden;
   text-align: center;
