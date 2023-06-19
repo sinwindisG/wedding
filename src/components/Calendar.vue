@@ -94,17 +94,6 @@
   font-weight: 700;
 }
 
-.weddingday::before {
-  background-color: #ffffff00;
-  position: absolute;
-  height: 30px;
-  width: 30px;
-  border-radius: 50%;
-  border: 1px solid #ffffffaa;
-  color: #fff;
-  text-align: center;
-}
-
 .circle {
   width: 25px;
   height: 25px;

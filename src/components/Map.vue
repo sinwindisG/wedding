@@ -7,7 +7,7 @@
       <h3>오시는 길</h3>
       <div class="uk-accordion-content">
         <p>
-          서울대학교 이라운지<br />
+          <span class="header-text">서울대학교 이라운지</span><br />
           <span class="content-text"
             >서울 관악구 관악로 1 서울대학교 관악캠퍼스 310동</span
           >
@@ -36,6 +36,11 @@
 </template>
 
 <style scoped>
+.header-text {
+  color: #ffffffd0;
+  font-weight: 600;
+}
+
 .uk-label {
   font-size: 0.8rem;
   padding: 0 5px;

@@ -75,6 +75,6 @@ dt {
 dd {
   color: white;
   font-size: 0.8rem;
-  color: #ffffffd0;
+  color: #ffffffcc;
 }
 </style>
