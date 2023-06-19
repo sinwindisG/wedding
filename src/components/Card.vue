@@ -1,5 +1,5 @@
 <template>
-  <div class="uk-width-1-1">
+  <div class="uk-width-1-1" style="visibility: hidden">
     <div class="card uk-text-center">
       <div>
         <h3>소중한 분들을<br />초대합니다</h3>

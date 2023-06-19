@@ -1,5 +1,5 @@
 <template>
-  <div class="uk-width-1-1">
+  <div class="uk-width-1-1" style="visibility: hidden">
     <div>
       <div class="uk-text-center">
         <h1 class="logo">wedding invitation</h1>
