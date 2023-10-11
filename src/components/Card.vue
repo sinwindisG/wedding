@@ -8,7 +8,6 @@
           진실과 이해로써 하나를 이루려 합니다.<br />
           이 두 사람을 지성으로 아끼고 돌봐주신<br />
           여러 어른과 친지분들, 벗님들을 모시고<br />
-          서로를 처음 만난 그 장소에서<br />
           서약을 맺고자 하오니<br />
           바쁘신 가운데 두 사람의 장래를<br />
           가까이에서 축복해 주시면 고맙겠습니다.<br />
@@ -33,6 +32,7 @@
             </tr>
           </tbody>
         </table>
+        <img class="avatar" src="/img/avatar.png" />
       </div>
     </div>
     <hr class="uk-divider-icon" />
@@ -40,6 +40,10 @@
 </template>
 
 <style scoped>
+.avatar {
+  padding-top: 20px;
+  image-rendering: pixelated;
+}
 .card {
   border: 1px solid #ffffffcc;
   border-radius: 600px 600px 0px 0px;
