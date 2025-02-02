@@ -4,31 +4,33 @@
       <div>
         <h3>소중한 분들을<br />초대합니다</h3>
         <h4>
-          두 사람이 사랑으로 만나<br />
-          진실과 이해로써 하나를 이루려 합니다.<br />
-          이 두 사람을 지성으로 아끼고 돌봐주신<br />
-          여러 어른과 친지분들, 벗님들을 모시고<br />
-          서약을 맺고자 하오니<br />
-          바쁘신 가운데 두 사람의 장래를<br />
-          가까이에서 축복해 주시면 고맙겠습니다.<br />
+          음악으로 처음 만난 순간부터 함께한 모든 노래들이,<br />
+          우리의 추억이 되고, 우리의 이야기가 되었습니다.<br />
+
+          이제 같은 선율 속에서 평생을 연주하려 합니다.<br />
+          인생이라는 긴 공연의 첫 무대에 소중한 분들을 초대합니다.<br />
         </h4>
+        <hr class="uk-divider-small" />
+        <h5 class="lyrics">
+          난 너의 세상을 함께 듣고 싶어<br />
+          네 눈에 담은 걸 같이 보고 싶어<br />
+          너의 맘 깊은 곳 작은 감정 하나도<br />
+          내게 모두 다 전해지기를<br />
+
+          &lt;LUCY - MP3&gt;
+        </h5>
+        <hr class="uk-divider-small" />
       </div>
       <div>
         <table>
           <tbody>
             <tr>
-              <td>아버님</td>
-              <td rowspan="2">의 ㅇ남 신동하</td>
+              <td>신사종, 안혜선의 장남</td>
+              <td rowspan="1">신동하</td>
             </tr>
             <tr>
-              <td>어머님</td>
-            </tr>
-            <tr>
-              <td>아버님</td>
-              <td rowspan="2">의 ㅇ녀 유지승</td>
-            </tr>
-            <tr>
-              <td>어머님</td>
+              <td>최지우의 장녀</td>
+              <td rowspan="1">유지승</td>
             </tr>
           </tbody>
         </table>
@@ -62,5 +64,20 @@ table {
 
 td {
   padding: 5px;
+}
+
+h4 {
+  font-size: 0.9rem;
+  line-height: 1.5rem;
+}
+
+.lyrics {
+  font-family: 'Dovemayo_gothic';
+  color: #ffffffb7;
+  letter-spacing: 1.5px;
+  margin-top: 0;
+  padding: 5px;
+  font-size: 0.9rem;
+  line-height: 1.5rem;
 }
 </style>

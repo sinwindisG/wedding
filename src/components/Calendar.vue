@@ -56,7 +56,7 @@
               <td>14</td>
               <td>15</td>
               <td>16</td>
-              <td class="circle">17</td>
+              <td class="dday">17<div class="circle"></div></td>
             </tr>
             <tr>
               <td class="holiday">18</td>
@@ -94,13 +94,20 @@
   font-weight: 700;
 }
 
+.dday {
+  position: relative;
+}
+
 .circle {
   width: 25px;
   height: 25px;
   border-radius: 51%;
-  border: 1px solid #ffffffaa;
-  display: inline-block;
+  border: 2px solid #ffffffaa;
+  position: absolute;
   font-weight: 700;
+  top: 50%;            /* 셀 높이의 가운데 */
+  left: 50%;          /* 셀 오른쪽 끝 */
+  transform: translate(-50%, -50%); /* 정확한 위치 맞추기 */
 }
 
 .holiday {

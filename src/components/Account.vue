@@ -17,11 +17,9 @@
               <div class="uk-accordion-content">
                 <dl class="uk-description-list uk-description-list-divider">
                   <dt>신랑</dt>
-                  <dd>1235-56-7890<br />ㅇㅇ은행 신동하</dd>
-                  <dt>신랑아버지</dt>
-                  <dd>1235-56-7890<br />ㅇㅇ은행 아버님</dd>
+                  <dd>1002-565-573358<br />우리은행 신동하</dd>
                   <dt>신랑어머니</dt>
-                  <dd>1235-56-7890<br />ㅇㅇ은행 어머님</dd>
+                  <dd>1002-441-166085<br />우리은행 안혜선</dd>
                 </dl>
               </div>
             </li>
@@ -30,11 +28,9 @@
               <div class="uk-accordion-content">
                 <dl class="uk-description-list uk-description-list-divider">
                   <dt>신부</dt>
-                  <dd>1235-56-7890<br />ㅇㅇ은행 유지승</dd>
-                  <dt>신부아버지</dt>
-                  <dd>1235-56-7890<br />ㅇㅇ은행 아버님</dd>
+                  <dd>655601-04-395879<br />국민은행 유지승</dd>
                   <dt>신부어머니</dt>
-                  <dd>1235-56-7890<br />ㅇㅇ은행 어머님</dd>
+                  <dd>947801-01-144199<br />국민은행 최지우</dd>
                 </dl>
               </div>
             </li>
@@ -46,12 +42,15 @@
 </template>
 
 <style scoped>
+.uk-accordion-content {
+  color: #ffffffd0;
+}
+
 .uk-accordion-title {
-  color: white;
   letter-spacing: 10px;
   font-size: 1rem;
   font-weight: 700;
-  color: #ffffffd0;
+  color: #ffffff;
 }
 
 .uk-description-list {
@@ -67,14 +66,14 @@ a:hover {
 dt {
   color: white;
   letter-spacing: 5px;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   font-weight: 700;
   color: #ffffffd0;
 }
 
 dd {
   color: white;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   color: #ffffffcc;
 }
 </style>

@@ -2,8 +2,10 @@
   <div class="uk-width-1-1" style="visibility: hidden">
     <div>
       <div class="uk-text-center">
-        <h1 class="logo">wedding invitation</h1>
-        <img src="/img/main.jpeg" />
+        <div class="cloud-bg">
+          <h1 class="logo">wedding<br />invitation</h1>
+        </div>
+        <img src="/img/main.png" />
       </div>
       <hr class="uk-divider-icon" />
       <div class="uk-text-center">
@@ -12,8 +14,9 @@
           결혼합니다
         </h3>
         <h4>
-          2025년 5월 17일, 토요일 낮 12시<br />
-          ㅇㅇㅇ 결혼식장
+          2025년 5월 17일, 토요일 낮 12시 30분<br />
+          SJ 쿤스트할레<br />
+          <span class="content-text">(서울시 강남구 언주로 148길 5)</span>
         </h4>
         <hr class="uk-divider-icon" />
       </div>
@@ -23,8 +26,29 @@
 
 <style scoped>
 .logo {
-  color: #ffffffcc;
-  /*font-family: 'Dawning of a New Day', cursive;*/
-  font-family: "Mr De Haviland", cursive;
+  color: #ffffff;
+  font-family: "Cafe24Meongi-B-v1.0";
+}
+
+.logo::before {
+  content: '';
+  position: absolute;
+  transform: translateY(-20%) translateX(-50%);
+  width: 20px;
+  height: 20px;
+  background-image: url('/img/flower-icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.logo::after {
+  content: '';
+  position: absolute;
+  transform: translateY(80%) translateX(-10%);
+  width: 20px;
+  height: 20px;
+  background-image: url('/img/flower-icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 </style>
