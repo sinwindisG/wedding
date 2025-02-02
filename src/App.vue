@@ -25,7 +25,7 @@ import Footer from "./components/Footer.vue";
       </div>
     </div>
     <div class="uk-text-center">
-      <img class="pixel" src="/img/footer.png" />
+      <!-- <img class="pixel" src="/img/footer.png" /> -->
     </div>
     <Footer />
   </div>

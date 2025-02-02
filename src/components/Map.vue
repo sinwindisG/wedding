@@ -7,16 +7,16 @@
       <h3>오시는 길</h3>
       <div class="uk-accordion-content">
         <p>
-          <span class="header-text">서울대학교 이라운지</span><br />
+          <span class="header-text">ㅇㅇㅇ 결혼식장</span><br />
           <span class="content-text"
-            >서울 관악구 관악로 1 서울대학교 관악캠퍼스 310동</span
+            >서울 ㅇㅇ구 ㅇㅇ로 ㅇㅇㅇ 결혼식장</span
           >
         </p>
         <p>
           <span class="content-text"><span class="uk-label uk-label-success">2호선</span>
-          서울대입구역 3번출구 → 5511, 5513번 버스 → 서울대학교내 제2공학관(종점) 하차</span><br/>
+          ㅇㅇ역 3번출구 → ㅇㅇㅇㅇ, ㅇㅇㅇㅇ번 버스 → ㅇㅇ 하차</span><br/>
           <span class="content-text"><span class="uk-label uk-label-success">2호선</span>
-          낙성대역 4번 출구 → GS주유소끼고 좌회전 → 제과점 앞에서 관악02번 버스 → 서울대학교내 제 2공학관(종점) 하차</span>
+          ㅇㅇ역 4번 출구 → ㅇㅇ번 버스 → ㅇㅇㅇ 하차</span>
         </p>
         <div>
           <iframe

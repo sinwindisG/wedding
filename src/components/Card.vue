@@ -17,22 +17,22 @@
         <table>
           <tbody>
             <tr>
-              <td>박운석</td>
-              <td rowspan="2">의 장남? 신동하</td>
+              <td>아버님</td>
+              <td rowspan="2">의 ㅇ남 신동하</td>
             </tr>
             <tr>
-              <td>이영화</td>
+              <td>어머님</td>
             </tr>
             <tr>
-              <td>구병문</td>
-              <td rowspan="2">의 장녀? 유지승</td>
+              <td>아버님</td>
+              <td rowspan="2">의 ㅇ녀 유지승</td>
             </tr>
             <tr>
-              <td>김길순</td>
+              <td>어머님</td>
             </tr>
           </tbody>
         </table>
-        <img class="avatar" src="/img/avatar.png" />
+        <!-- <img class="avatar" src="/img/avatar.png" /> -->
       </div>
     </div>
     <hr class="uk-divider-icon" />
