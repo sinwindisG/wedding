@@ -18,14 +18,14 @@
           <tbody>
             <tr>
               <td>박운석</td>
-              <td rowspan="2">의 장남 박상현</td>
+              <td rowspan="2">의 장남? 신동하</td>
             </tr>
             <tr>
               <td>이영화</td>
             </tr>
             <tr>
               <td>구병문</td>
-              <td rowspan="2">의 차녀 구연재</td>
+              <td rowspan="2">의 장녀? 유지승</td>
             </tr>
             <tr>
               <td>김길순</td>

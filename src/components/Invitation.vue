@@ -8,12 +8,12 @@
       <hr class="uk-divider-icon" />
       <div class="uk-text-center">
         <h3>
-          박상현·구연재<br />
+          신동하·유지승<br />
           결혼합니다
         </h3>
         <h4>
-          2023년 10월 29일, 일요일 낮 2시<br />
-          서울대학교 이라운지
+          2025년 5월 17일, 토요일 낮 12시<br />
+          ㅇㅇㅇ 결혼식장
         </h4>
         <hr class="uk-divider-icon" />
       </div>
