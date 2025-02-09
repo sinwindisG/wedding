@@ -3,6 +3,7 @@ import Invitation from "./components/Invitation.vue";
 import Card from "./components/Card.vue";
 import Calendar from "./components/Calendar.vue";
 import Gallery from "./components/Gallery.vue";
+import Profile from "./components/Profile.vue";
 import Map from "./components/Map.vue";
 import Account from "./components/Account.vue";
 import Footer from "./components/Footer.vue";
@@ -20,6 +21,7 @@ import Footer from "./components/Footer.vue";
         </div>
         <Calendar />
         <Gallery />
+        <Profile />
         <Map />
         <Account />
       </div>
