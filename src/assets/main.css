@@ -97,7 +97,6 @@ h1, h2, h3 {
 }
 
 h3 {
-  color: #ffffff;
   letter-spacing: 10px;
   font-size: 1.2rem;
   font-weight: 700;
@@ -105,7 +104,6 @@ h3 {
 
 h4 {
   font-family: 'Dovemayo_gothic';
-  color: #ffffff;
   letter-spacing: 1.0px;
   font-size: 1.0rem;
   margin-top: 0;

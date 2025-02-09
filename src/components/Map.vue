@@ -48,7 +48,7 @@
 }
 
 .uk-accordion-content {
-  color: #ffffffd0;
+  color: rgba(var(--color-text-alpha), 0.815);
 }
 
 .uk-label {

@@ -43,14 +43,14 @@
 
 <style scoped>
 .uk-accordion-content {
-  color: #ffffffd0;
+  color: rgba(var(--color-text-alpha), 0.815);
 }
 
 .uk-accordion-title {
   letter-spacing: 10px;
   font-size: 1rem;
   font-weight: 700;
-  color: #ffffff;
+  color: rgba(var(--color-text-alpha), 1);
 }
 
 .uk-description-list {
@@ -60,20 +60,26 @@
 }
 
 a:hover {
-  color: #ffffffa7;
+  color: rgba(var(--color-text-alpha), 0.655);
 }
 
 dt {
-  color: white;
   letter-spacing: 5px;
   font-size: 0.9rem;
   font-weight: 700;
-  color: #ffffffd0;
+  color: rgba(var(--color-text-alpha), 0.815);
 }
 
 dd {
-  color: white;
   font-size: 0.9rem;
-  color: #ffffffcc;
+  color: rgba(var(--color-text-alpha), 0.8);
+}
+
+.uk-accordion-title::before {
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2213%22%20height%3D%2213%22%20viewBox%3D%220%200%2013%2013%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%20%20%20%20%3Crect%20fill%3D%22%235e3b2f%22%20width%3D%2213%22%20height%3D%221%22%20x%3D%220%22%20y%3D%226%22%20%2F%3E%0A%20%20%20%20%3Crect%20fill%3D%22%235e3b2f%22%20width%3D%221%22%20height%3D%2213%22%20x%3D%226%22%20y%3D%220%22%20%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.uk-open > .uk-accordion-title::before {
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2213%22%20height%3D%2213%22%20viewBox%3D%220%200%2013%2013%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%20%20%20%20%3Crect%20fill%3D%22%235e3b2f%22%20width%3D%2213%22%20height%3D%221%22%20x%3D%220%22%20y%3D%226%22%20%2F%3E%0A%3C%2Fsvg%3E");
 }
 </style>

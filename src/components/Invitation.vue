@@ -26,28 +26,28 @@
 
 <style scoped>
 .logo {
-  color: #ffffff;
+  color: rgba(var(--color-text-alpha), 1);
   font-family: "Cafe24Meongi-B-v1.0";
 }
 
 .logo::before {
-  content: '';
+  content: "";
   position: absolute;
   transform: translateY(-20%) translateX(-50%);
   width: 20px;
   height: 20px;
-  background-image: url('/img/flower-icon.png');
+  background-image: url("/img/flower-icon.png");
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .logo::after {
-  content: '';
+  content: "";
   position: absolute;
   transform: translateY(80%) translateX(-10%);
   width: 20px;
   height: 20px;
-  background-image: url('/img/flower-icon.png');
+  background-image: url("/img/flower-icon.png");
   background-size: contain;
   background-repeat: no-repeat;
 }

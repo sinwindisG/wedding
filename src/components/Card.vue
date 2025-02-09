@@ -47,7 +47,7 @@
   image-rendering: pixelated;
 }
 .card {
-  border: 1px solid #ffffffcc;
+  border: 1px solid rgba(var(--color-card-border), 0.8);
   border-radius: 600px 600px 0px 0px;
   width: 100%;
   max-width: 400px;
@@ -59,7 +59,7 @@ table {
   margin-left: auto;
   margin-right: auto;
   font-weight: 600;
-  color: #ffffffcc;
+  color: rgba(var(--color-text-alpha), 0.8);
 }
 
 td {
@@ -73,7 +73,7 @@ h4 {
 
 .lyrics {
   font-family: 'Dovemayo_gothic';
-  color: #ffffffb7;
+  color: rgba(var(--color-text-alpha), 0.717);
   letter-spacing: 1.5px;
   margin-top: 0;
   padding: 5px;

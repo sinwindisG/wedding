@@ -12079,7 +12079,7 @@ iframe[data-uk-cover] {
 .uk-overlay-primary .uk-dotnav > * > *,
 .uk-offcanvas-bar .uk-dotnav > * > * {
   background-color: transparent;
-  border-color: rgba(255, 255, 255, 0.9);
+  border-color: rgba(var(--color-calendar-circle), 0.9);
 }
 .uk-light .uk-dotnav > * > :hover,
 .uk-section-primary:not(.uk-preserve-color) .uk-dotnav > * > :hover,
@@ -12092,7 +12092,7 @@ iframe[data-uk-cover] {
 .uk-card-secondary > :not([class*='uk-card-media']) .uk-dotnav > * > :hover,
 .uk-overlay-primary .uk-dotnav > * > :hover,
 .uk-offcanvas-bar .uk-dotnav > * > :hover {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(var(--color-calendar-circle), 0.9);
   border-color: transparent;
 }
 .uk-light .uk-dotnav > * > :active,
@@ -12106,7 +12106,7 @@ iframe[data-uk-cover] {
 .uk-card-secondary > :not([class*='uk-card-media']) .uk-dotnav > * > :active,
 .uk-overlay-primary .uk-dotnav > * > :active,
 .uk-offcanvas-bar .uk-dotnav > * > :active {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(var(--color-calendar-circle), 0.5);
   border-color: transparent;
 }
 .uk-light .uk-dotnav > .uk-active > *,
@@ -12120,7 +12120,7 @@ iframe[data-uk-cover] {
 .uk-card-secondary > :not([class*='uk-card-media']) .uk-dotnav > .uk-active > *,
 .uk-overlay-primary .uk-dotnav > .uk-active > *,
 .uk-offcanvas-bar .uk-dotnav > .uk-active > * {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(var(--color-calendar-circle), 0.9);
   border-color: transparent;
 }
 .uk-light .uk-iconnav > * > a,

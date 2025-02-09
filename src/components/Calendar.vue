@@ -102,7 +102,7 @@
   width: 25px;
   height: 25px;
   border-radius: 51%;
-  border: 2px solid #ffffffaa;
+  border: 2px solid rgba(var(--color-calendar-circle), 0.667);
   position: absolute;
   font-weight: 700;
   top: 50%;            /* 셀 높이의 가운데 */
@@ -111,7 +111,7 @@
 }
 
 .holiday {
-  color: #fcb8b8e1;
+  color: var(--color-calendar-holiday);
 }
 
 .time {
@@ -119,14 +119,14 @@
   position: relative;
   top: 5px;
   font-size: 0.7rem;
-  color: #ffffffaa;
+  color: rgba(var(--color-text-alpha), 0.667);
   font-weight: 700;
 }
 
 table {
   margin-left: auto;
   margin-right: auto;
-  color: #ffffffcc;
+  color: rgba(var(--color-text-alpha), 0.8);
   padding: 15px;
   border-radius: 50px;
 }
