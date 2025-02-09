@@ -26,11 +26,11 @@
           <tbody>
             <tr>
               <td>신사종, 안혜선의 장남</td>
-              <td rowspan="1">신동하</td>
+              <td rowspan="1">동하</td>
             </tr>
             <tr>
               <td>최지우의 장녀</td>
-              <td rowspan="1">유지승</td>
+              <td rowspan="1">지승</td>
             </tr>
           </tbody>
         </table>
