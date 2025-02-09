@@ -19,12 +19,12 @@ body {
   background: var(--color-background);
   transition: color 0.5s, background-color 0.5s;
   line-height: 1.6;
+  font-family: 'Dovemayo_gothic'; /* Dovemayo_gothic, HakgyoansimGeurimilgiTTF-R, IM_Hyemin-Bold */
   /* font-family: 'UhBeeKang-Ja'; */
   /* font-family: 'MangoDdobak-B'; */
   /* font-family: 'UhBeecharming'; */
   /* font-family: 'UhBeeSe_hyun'; */
   /* font-family: 'IM_Hyemin-Bold'; */
-  font-family: 'Dovemayo_gothic';
   /* font-family: 'HakgyoansimGeurimilgiTTF-R'; */
   /* font-family: 'Ownglyph_ParkDaHyun'; */
   /* font-family: 'HakgyoansimDunggeunmisoTTF-B'; */

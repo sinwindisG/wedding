@@ -72,7 +72,6 @@ h4 {
 }
 
 .lyrics {
-  font-family: 'Dovemayo_gothic';
   color: rgba(var(--color-text-alpha), 0.717);
   letter-spacing: 1.5px;
   margin-top: 0;
