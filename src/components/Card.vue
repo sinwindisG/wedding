@@ -8,7 +8,7 @@
           우리의 추억이 되고, 우리의 이야기가 되었습니다.<br />
 
           이제 같은 선율 속에서 평생을 연주하려 합니다.<br />
-          인생이라는 긴 공연의 첫 무대에 <br />소중한 분들을 초대합니다.<br />
+          인생이라는 긴 공연의 첫 무대에 소중한 분들을 초대합니다.<br />
         </h4>
         <hr class="uk-divider-small" />
         <h5 class="lyrics">
@@ -18,9 +18,6 @@
           내게 모두 다 전해지기를<br />
 
           &lt;LUCY - MP3&gt;
-          <figure>
-            <audio controls src="/MP3.mp3" controlsList="nodownload"></audio>
-          </figure>
         </h5>
         <hr class="uk-divider-small" />
       </div>
@@ -82,35 +79,4 @@ h4 {
   font-size: 0.9rem;
   line-height: 1.5rem;
 }
-
-  audio {
-    width: 143px;
-  }
-
-  audio::-webkit-media-controls-volume-slider {
-    display: none !important;
-  }
-
-  audio::-webkit-media-controls-timeline-container {
-    display: none !important;
-  }
-
-  audio::-webkit-media-controls-time-remaining-display {
-    display: none !important;
-  }
-
-  audio::-webkit-media-controls-timeline {
-    display: none !important;
-  }
-  audio::-webkit-media-controls-panel {
-    background-color: #96bc7f;
-    color: #96bc7f;
-  }
-  audio::-webkit-media-controls-enclosure {
-    background-color: #96bc7f;
-    color: #96bc7f;
-  }
-  figure {
-      margin-bottom: 0;
-  }
 </style>
