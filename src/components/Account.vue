@@ -1,7 +1,7 @@
 <template>
   <div
     class="uk-width-1-1"
-    uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 500"
+    uk-scrollspy="target: > div; cls: uk-animation-fade; delay: 220;"
   >
     <div>
       <h3>마음 전하실 곳</h3>
