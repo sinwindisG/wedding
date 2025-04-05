@@ -3,7 +3,7 @@ export default {
   methods: {
     sendkakao: function () {
       Kakao.Share.sendCustom({
-        templateId: 119187,
+        templateId: 116903,
       });
     },
   },
