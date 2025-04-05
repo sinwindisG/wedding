@@ -5,7 +5,7 @@
         <div class="cloud-bg">
           <h1 class="logo">wedding<br />invitation</h1>
         </div>
-        <img src="/img/main.png" />
+        <img src="/main.png" />
       </div>
       <hr class="uk-divider-icon" />
       <div class="uk-text-center">

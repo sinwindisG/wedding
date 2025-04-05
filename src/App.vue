@@ -14,7 +14,7 @@ import Footer from "./components/Footer.vue";
     <div class="wrapper">
       <div class="contents">
         <div
-          uk-scrollspy="target: > div, h1, img, hr, h3, p, iframe, h4, table, ul; cls: uk-animation-fade; delay: 500"
+          uk-scrollspy="target: > div, h1, img, hr, h3, p, iframe, h4, table, ul; cls: uk-animation-fade; delay: 220;"
         >
           <Invitation />
           <Card />
