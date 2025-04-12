@@ -1,7 +1,7 @@
 <template>
   <div
     class="uk-width-1-1"
-    uk-scrollspy="target: > h3, div; cls: uk-animation-fade; delay: 500"
+    uk-scrollspy="target: > h3, div; cls: uk-animation-fade; delay: 220;"
   >
     <div>
       <h3>오월의<br />세 번째 토요일.</h3>
