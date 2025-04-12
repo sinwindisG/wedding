@@ -19,7 +19,7 @@
 
           &lt;LUCY - MP3&gt;
           <figure>
-            <audio controls src="/MP3.mp3" controlsList="nodownload"></audio>
+            <audio controls src="MP3.mp3" controlsList="nodownload"></audio>
           </figure>
         </h5>
         <hr class="uk-divider-small" />

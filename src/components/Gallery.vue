@@ -5,7 +5,7 @@
   imageList.value = [...new Array(18)].map((photo, index) => {
     return {
       index: index,
-      path: `/gallery/${index + 1}.jpg`
+      path: `gallery/${index + 1}.jpg`
     }
   });
 
@@ -13,7 +13,7 @@
   imageList2.value = [...new Array(16)].map((photo, index) => {
     return {
       index: index,
-      path: `/gallery2/${index + 1}.jpg`
+      path: `gallery2/${index + 1}.jpg`
     }
   });
 </script>
